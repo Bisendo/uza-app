@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/uza-app/static/css/main.0122d018.css",
-    "main.js": "/uza-app/static/js/main.f89b656f.js",
+    "main.js": "/uza-app/static/js/main.71cf6240.js",
     "static/media/image4.jpg": "/uza-app/static/media/image4.afedd0ac9c12c7a8e50d.jpg",
     "static/media/image1.jpg": "/uza-app/static/media/image1.74fbbac1aacd88e8ee95.jpg",
     "static/media/image8.jpg": "/uza-app/static/media/image8.9150fb74f211523f47f9.jpg",
@@ -16,10 +16,10 @@
     "static/media/profile1.jpg": "/uza-app/static/media/profile1.ef590e52ae92449ffe69.jpg",
     "index.html": "/uza-app/index.html",
     "main.0122d018.css.map": "/uza-app/static/css/main.0122d018.css.map",
-    "main.f89b656f.js.map": "/uza-app/static/js/main.f89b656f.js.map"
+    "main.71cf6240.js.map": "/uza-app/static/js/main.71cf6240.js.map"
   },
   "entrypoints": [
     "static/css/main.0122d018.css",
-    "static/js/main.f89b656f.js"
+    "static/js/main.71cf6240.js"
   ]
 }
